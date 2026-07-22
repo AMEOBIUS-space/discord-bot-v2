@@ -50,3 +50,5 @@ MIT · AMEOBIUS-team
 - https://github.com/AMEOBIUS-team/discord-bot-template
 - https://github.com/AMEOBIUS-team/fastapi-template
 - Portfolio: https://ameobius-team.github.io/kwork-portfolio/
+
+Freelance portfolio: [https://ameobius-space.github.io/kwork-portfolio/](https://ameobius-space.github.io/kwork-portfolio/)
